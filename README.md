@@ -1,7 +1,7 @@
 # Aplikasi-login
-An Application with Login Feature
+Sebuah Aplikasi dengan fitur login 
 
-Flow of Login Feature:
-1. Enter email and password.
-2. Validate input.
-3. Display the home page.
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman home.
